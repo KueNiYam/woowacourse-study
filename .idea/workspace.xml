@@ -24,7 +24,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581224688903</updated>
-      <workItem from="1581224690727" duration="4889000" />
+      <workItem from="1581224690727" duration="5316000" />
     </task>
     <servers />
   </component>
@@ -44,13 +44,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="234" y="0" key="#Notifications" timestamp="1581229950738">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="234" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1581229950738" />
     <state x="234" y="0" key="#Project_Structure" timestamp="1581224705799">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="234" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1581224705799" />
-    <state x="143" y="0" key="SettingsEditor" timestamp="1581227141946">
+    <state x="143" y="0" key="SettingsEditor" timestamp="1581229994033">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="143" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581227141946" />
+    <state x="143" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581229994033" />
   </component>
 </project>
