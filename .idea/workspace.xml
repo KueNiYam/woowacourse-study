@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f30c821f-50ec-4331-8a36-3671313500df" name="Default Changelist" comment="" />
+    <list default="true" id="f30c821f-50ec-4331-8a36-3671313500df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/chlcg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/chlcg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +28,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,7 +40,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581224688903</updated>
-      <workItem from="1581224690727" duration="5505000" />
+      <workItem from="1581224690727" duration="6512000" />
+      <workItem from="1581257310898" duration="10000" />
+      <workItem from="1581325271120" duration="2319000" />
+      <workItem from="1581403066598" duration="2754000" />
+      <workItem from="1581499101360" duration="1964000" />
     </task>
     <servers />
   </component>
@@ -52,9 +60,13 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="234" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1581224705799" />
-    <state x="143" y="0" key="SettingsEditor" timestamp="1581229994033">
+    <state x="143" y="0" key="SettingsEditor" timestamp="1581485526493">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="143" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581229994033" />
+    <state x="143" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581485526493" />
+    <state x="-17" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1581500801141">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-17" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1581500801141" />
   </component>
 </project>
